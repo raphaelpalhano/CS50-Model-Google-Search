@@ -9,7 +9,7 @@
     
    2. Em cada uma das outras duas páginas, deve haver um link no canto superior direito para voltar à Pesquisa Google.
 
-<br>
+<br><br>
 
 ## ESTILIZAÇÃO DA PÁGINA
 
